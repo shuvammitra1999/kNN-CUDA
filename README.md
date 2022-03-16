@@ -3,11 +3,7 @@
 The k-nearest neighbor algorithm (k-NN) is a widely used machine learning algorithm used for both classification and regression. k-NN algorithms are used in many research and industrial domains such as 3-dimensional object rendering, content-based image retrieval, statistics (estimation of entropies and divergences), biology (gene classification), etc. The processing time of the kNN search still remains the bottleneck in many application domains, especially in high dimensional spaces. In this work, we try to address this processing time issue by performing the kNN search using the GPU.
 
 
-# Authors
-	
-* Vincent Garcia
-* Éric Debreuve
-* Michel Barlaud
+
 
 
 # Description
